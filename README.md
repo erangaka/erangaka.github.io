@@ -40,7 +40,7 @@ _Linux · Kubernetes · Docker · Gitlab · Grafana · Prometheus.io · ActiveMQ
 - Automate and manage Kubernetes CI/CD pipelines using GitLab.
 - Analyze and improve application performance.
 - Plan, document and deploy product upgrades.
-- Architecture and implement an observability solution for an Integration & API management platformusing WSO2 API Manager, Grafana, Prometheus and Gitlab.
+- Architect and implement an observability solution for an Integration & API management platform using WSO2 API Manager, Grafana, Prometheus and Gitlab.
 - Provide 24/7 on-call support.
 <br><br>
 
@@ -56,7 +56,7 @@ _Linux · AWS · Python · Ansible · REST APIs · JSON · Git · Kubernetes · 
 - Investigate, resolve or provide workarounds to application operational issues.
 - Deploy off-cycle fixes in production.
 - Automate manual tasks to reduce toil as a member of Agile SDLC team.
-- Participate in a shift pattern to achieve 365 days coverage.
+- Participate in a shift pattern to achieve 365-day coverage.
 <br><br>
 
 **Sr. Associate Operations Center Engineer** - _(May 2020 - Nov 2021)_ <br>
