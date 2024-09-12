@@ -62,7 +62,7 @@ _Linux · AWS · Python · Ansible · REST APIs · JSON · Git · Kubernetes · 
 **Sr. Associate Operations Center Engineer** - _(May 2020 - Nov 2021)_ <br>
 **Associate Operations Center Engineer** - _(Aug 2018 - May 2020)_
 
-_Linux · AWS · Bash · Shell Scripting · SQL · Kubernetest · Docker · Bigpanda · Wavefront · JIRA · Confluence_
+_Linux · AWS · Bash · Shell Scripting · SQL · Kubernetes · Docker · Bigpanda · Wavefront · JIRA · Confluence_
 
 - Maintain monitoring of a complex and distributed application stack.
 - Primary point of contact for availability and performance issues.
