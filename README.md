@@ -19,37 +19,37 @@ Self-driven Platform and Site Reliability Engineer, with 10+ years of experience
 
 _Linux · Docker · Terraform · Chef.io · Jenkins · Python · Groovy · REST APIs · Bitbucket · Dynatrace · Splunk · PagerDuty · ServiceNow · JIRA · Confluence · Agile_
 
-- Build, deploy, upgrade and manage observability tech stack (Dynatrace, Splunk, Pagerduty).
+- Build, deploy, upgrade and manage observability tech stack (Dynatrace, Splunk, PagerDuty).
 - Infrastructure as code (IaC) using Terraform and Docker.
 - Configuration management using Chef.
-- Build CI/CD automated pipelines using Jenkins and Groovy functions.
-- Build automations using Python or Bash.
+- Build automated CI/CD pipelines using Jenkins and Groovy functions.
+- Build automation scripts using Python or Bash.
 - Maintain codebase in Bitbucket (git).
 - Create design documents and runbooks using Confluence or Markdown.
-- Provide 24/7 on-call support.
+- Provide on-call support.
 <br><br>
 
 ### [IntegrationWorks](https://www.linkedin.com/company/integrationworks) - New Zealand
 
 **Site Reliability Engineer** - _(Oct 2022 - Jul 2023)_
 
-_Linux · Kubernetes · Docker · Gitlab · Grafana · Prometheus.io · ActiveMQ · Opsgenie · Wso2 · ServiceNow · JIRA Service Desk · Confluence_
+_Linux · Kubernetes · Docker · GitLab · Grafana · Prometheus · ActiveMQ · Opsgenie · WSO2 · ServiceNow · JIRA Service Desk · Confluence_
 
-- Monitoring client integration application availability and respond to incidents.
+- Monitor client integration application availability and respond to incidents.
 - Investigate, resolve or provide workarounds to application operational issues.
 - Automate and manage Kubernetes CI/CD pipelines using GitLab.
 - Analyze and improve application performance.
 - Plan, document and deploy product upgrades.
-- Architect and implement an observability solution for an Integration & API management platform using WSO2 API Manager, Grafana, Prometheus and Gitlab.
-- Provide 24/7 on-call support.
+- Architect and implement an observability solution for an Integration & API management platform using WSO2 API Manager, Grafana, Prometheus and GitLab.
+- Provide on-call support.
 <br><br>
 
 ### [Workday](https://www.linkedin.com/company/workday) - New Zealand
 
 **Site Reliability Engineer** - _(May 2022 - Oct 2022)_ <br>
-**Sr Associate Site Reliability Engineer** - _(Nov 2021 - May 2022)_
+**Sr. Associate Site Reliability Engineer** - _(Nov 2021 - May 2022)_
 
-_Linux · AWS · Python · Ansible · REST APIs · JSON · Git · Kubernetes · Docker ·Bigpanda · Wavefront · JIRA Service Desk · Confluence · Scrum Agile_
+_Linux · AWS · Python · Ansible · REST APIs · JSON · Git · Kubernetes · Docker · BigPanda · Wavefront · JIRA Service Desk · Confluence · Scrum Agile_
 
 - Monitoring applications availability and responding to incidents.
 - Maintain incident SLAs.
@@ -62,14 +62,14 @@ _Linux · AWS · Python · Ansible · REST APIs · JSON · Git · Kubernetes · 
 **Sr. Associate Operations Center Engineer** - _(May 2020 - Nov 2021)_ <br>
 **Associate Operations Center Engineer** - _(Aug 2018 - May 2020)_
 
-_Linux · AWS · Bash · Shell Scripting · SQL · Kubernetes · Docker · Bigpanda · Wavefront · JIRA · Confluence_
+_Linux · AWS · Bash · Shell Scripting · SQL · Kubernetes · Docker · BigPanda · Wavefront · JIRA · Confluence_
 
 - Maintain monitoring of a complex and distributed application stack.
 - Primary point of contact for availability and performance issues.
 - Drive and improve daily administration tasks.
 - Take ownership of incidents and outages.
 - Work closely with escalation teams and customer support.
-- Participate in a shift pattern to achieve 365 days coverage.
+- Participate in a shift pattern to achieve 365-day coverage.
 - Perform weekly release deployment and deploy off-cycle fixes.
 <br><br>
 
@@ -78,7 +78,7 @@ _Linux · AWS · Bash · Shell Scripting · SQL · Kubernetes · Docker · Bigpa
 **System Support Engineer** - _(Oct 2014 - Jan 2018)_ <br>
 **System Support Intern** - _(Nov 2013 - Sep 2014)_
 
-_Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband · ssh · scp · telnet · ftp/sftp · Verifix · JIRA · Confluence · Atlassian Bamboo · CA clarity · Workday HCM_
+_Linux (SUSE, RedHat) · SQL(Oracle 11g, 12c) · Bash · PL/SQL · Infiniband · ssh · scp · telnet · ftp/sftp · Verifix · JIRA · Confluence · Atlassian Bamboo · Workday HCM_
 
 - Diagnose issues in Dev/QA environments and provide assistance to external and internal service teams.
 - Investigate, resolve or provide workarounds to system issues in the Linux Operating Systems, Databases, Network and Hardware.
@@ -87,17 +87,17 @@ _Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband �
 - Perform application performance, fault tolerance & operational (non-functional) regression testing and reporting.
 - Perform non-functional testing for hardware acceptance and certification.
 - Design and develop test scenarios for application change requests.
-- Automate test suite setup using bash, Perl, PL/SQLs to implement continuous testing process.
+- Automate test suite setup using Bash, Perl, and PL/SQL to implement a continuous testing process.
 - Implement and support continuous integration process using Atlassian Bamboo.
 - Follow the agile methodology and the scrum approach to deliver committed changes on time.
-- Provide necessary training and guidance for work colleagues, new recruits and prepare training materials.
+- Provide necessary training and guidance for colleagues and new recruits, and prepare training materials.
 <br><br>
 
 <br>
 
 ## Education
 
-**Bachelor of Science - BS, Management Information Systems** <br>
+**BSc in Management Information Systems** <br>
 _[University College Dublin](https://www.ucd.ie/) - 2014_
 <br><br>
 
