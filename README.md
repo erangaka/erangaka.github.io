@@ -94,7 +94,6 @@ _Linux (SUSE, RedHat) · SQL(Oracle 11g, 12c) · Bash · PL/SQL · Infiniband ·
 <br><br>
 
 <br>
-
 ## Education
 
 **BSc in Management Information Systems** <br>
@@ -102,8 +101,6 @@ _[University College Dublin](https://www.ucd.ie/) - 2014_
 <br><br>
 
 <br>
-
-
 ## Certifications
 
 [**HashiCorp Certified: Terraform Associate (003)**](https://www.credly.com/badges/1a58bc85-c15e-4b2f-8193-3e8c3ad8c85f) - HashiCorp <br>
@@ -111,12 +108,3 @@ _Issued May 2024 - Expires May 2026_
 
 [**F5 NGINX Core**](https://www.credly.com/badges/e369e527-4b06-4b8c-aa04-618857f5e32f) - F5 <br>
 _Issued Dec 2022_
-
-[**Introduction to Cloud Computing**](https://verify.acloud.guru/053057E425D7) - A Cloud Guru <br>
-_Issued Jun 2022_
-
-[**Introduction to Ansible**](https://verify.acloud.guru/FF87837E8BF8) - A Cloud Guru <br>
-_Issued Nov 2021_
-
-[**Git Quick Start**](https://verify.acloud.guru/BEC217F6932C) - A Cloud Guru <br>
-_Issued Nov 2021_
