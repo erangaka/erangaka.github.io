@@ -94,6 +94,7 @@ _Linux (SUSE, RedHat) · SQL(Oracle 11g, 12c) · Bash · PL/SQL · Infiniband ·
 <br><br>
 
 <br>
+
 ## Education
 
 **BSc in Management Information Systems** <br>
@@ -101,6 +102,7 @@ _[University College Dublin](https://www.ucd.ie/) - 2014_
 <br><br>
 
 <br>
+
 ## Certifications
 
 [**HashiCorp Certified: Terraform Associate (003)**](https://www.credly.com/badges/1a58bc85-c15e-4b2f-8193-3e8c3ad8c85f) - HashiCorp <br>
