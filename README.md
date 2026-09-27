@@ -5,7 +5,7 @@
 
 ---
 
-Self-driven Platform and Site Reliability Engineer, with 10+ years of experience in Linux based large scale enterprise applications on private & public cloud infrastructure. Specialized in SaaS platforms management, build automated solutions, application monitoring, incident management. Constantly looking for opportunities to solve problems and build reliable platforms.
+Platform and Site Reliability Engineer (SRE) with 10+ years of experience in Linux based large scale enterprise applications on private & public cloud infrastructure. Specialized in managing SaaS platforms, building automated solutions, and monitoring systems. Highly skilled in using GitHub Copilot and generative AI tools to automate DevOps tasks, write infrastructure code, and speed up project delivery. Passionate about solving complex problems and building reliable systems.
 
 ---
 <br>
@@ -17,15 +17,17 @@ Self-driven Platform and Site Reliability Engineer, with 10+ years of experience
 
 **Platform Engineer** - _(Aug 2023 - Present)_
 
-_Linux · Docker · Terraform · Chef.io · Jenkins · Python · Groovy · REST APIs · Bitbucket · Dynatrace · Splunk · PagerDuty · ServiceNow · JIRA · Confluence · Agile_
+_GitHub Copilot · Generative AI · Linux · Docker · Terraform · Chef.io · Jenkins · Python · Groovy · REST APIs · Bitbucket · Dynatrace · Splunk · PagerDuty · ServiceNow · JIRA · Confluence · Agile_
 
+- Use GitHub Copilot to design Architectural Decision Records (ADRs) and automate the creation of infrastructure code, configuration scripts, deployment pipelines, and unit tests.
 - Build, deploy, upgrade and manage observability tech stack (Dynatrace, Splunk, PagerDuty).
+- Administer, upgrade, and manage enterprise collaboration platforms (Jira, Confluence, Bitbucket).
 - Infrastructure as code (IaC) using Terraform and Docker.
 - Configuration management using Chef.
 - Build automated CI/CD pipelines using Jenkins and Groovy functions.
 - Build automation scripts using Python or Bash.
 - Maintain codebase in Bitbucket (git).
-- Create design documents and runbooks using Confluence or Markdown.
+- Create design documents, ADRs, and runbooks using Confluence, Markdown, and AI text generators.
 - Provide on-call support.
 <br><br>
 
