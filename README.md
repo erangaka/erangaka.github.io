@@ -110,3 +110,7 @@ _Issued May 2024 - Expires May 2026_
 
 [**F5 NGINX Core**](https://www.credly.com/badges/e369e527-4b06-4b8c-aa04-618857f5e32f) - F5 <br>
 _Issued Dec 2022_
+<br><br>
+
+---
+<sub>_This CV is written in Markdown and automatically deployed via a GitHub Actions CI/CD workflow. [View Source Code](https://github.com/erangaka/erangaka.github.io.git)_</sub>
